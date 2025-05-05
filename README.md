@@ -23,6 +23,6 @@ This project automatically sends personalized good morning messages to your love
 ## Example Output
 
 ```text
-Subject: Exete Mail apo to mimi sas:
+Subject: You have a new Mail:
 
-Hey mimi moy iloveyou :(
+Hey darling goodmorning!!
