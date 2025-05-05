@@ -14,12 +14,6 @@ This project automatically sends personalized good morning messages to your love
 2. It sends the selected message to the recipient via Gmail’s SMTP server.
 3. Each message is sent with a unique greeting each time the script runs.
 
-## Customization
-
-- Update the sender's email address (`agapwtomimimou@gmail.com`).
-- Change the recipient’s email address (`nagiagiannousa165@gmail.com`).
-- Modify the `texts` list with your personalized messages.
-
 ## Example Output
 
 ```text
