@@ -22,7 +22,15 @@ This project automatically sends personalized good morning messages to your love
 
 ## Example Output
 
-```text
-Subject: You have a new Mail:
+**Subject: You have a new Mail:**
 
 Hey darling Godmorning!!!
+
+
+## 🧑‍💻 Author
+
+Created by **Panagiotis Mokos**  
+GitHub: [@MwkosP](https://github.com/MwkosP)
+
+
+---
